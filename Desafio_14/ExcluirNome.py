@@ -1,8 +1,6 @@
 nomes_possiveis = [
-    "Ana", "Carlos", "Beatriz", "Daniel", "Eduardo", "Fernanda",
-    "Gabriel", "Helena", "Luiz", "Mariana", "Luiz", "Sofia",
-    "Larissa", "Isabela", "Ricardo", "Julia", "Marcelo", "Larissa",
-    "Felipe", "Ana"
+    "Ana", "Carlos", "Beatriz", "Daniel", "Eduardo", "Fernanda", "Gabriel", "Helena", "Luiz", "Mariana",
+    "Luiz", "Sofia", "Larissa", "Isabela", "Ricardo", "Julia", "Marcelo", "Larissa", "Felipe", "Ana"
 ]
 
 
